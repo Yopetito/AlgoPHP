@@ -1,4 +1,4 @@
-<h1>>Exercice 8</h1>
+<h1>>Exercice 9</h1>
 
 <p>Ecrire un algorithme qui annonce si une personne est imposable en fonction de son âge et de son sexe.<br></p>
 
